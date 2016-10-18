@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dlivingston/knights-who-say-ni/issues"
   },
-  "homepage": "https://github.com/dlivingston/knights-who-say-ni#readme"
+  "homepage": "https://github.com/dlivingston/knights-who-say-ni#readme",
+  "dependencies": {
+    "angular-cli": "^1.0.0-beta.17"
+  }
 }
