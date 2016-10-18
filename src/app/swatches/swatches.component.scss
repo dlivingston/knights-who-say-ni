@@ -1,0 +1,25 @@
+$color-primary: #6C9B34;	// Main Primary color */
+$color-primary-darker: #223E00;
+$color-primary-darkest: #3A6900;
+$color-primary-lighter: #B3CC94;
+$color-primary-lightest: #D6EDBA;
+
+$color-alt1: #29516D;	// Main Secondary color (1) */
+$color-alt1-darker: #021A2C;
+$color-alt1-darkest: #042D4A;
+$color-alt1-lighter: #6B8190;
+$color-alt1-lightest: #91A7B6;
+
+$color-alt2: #AA9939;	// Main Secondary color (2) */
+$color-alt2-darker: #443A00;
+$color-alt2-darkest: #746200;
+$color-alt2-lighter: #E1D7A3;
+$color-alt2-lightest: #FFF7C9;
+
+.bg-alt1 {
+	background-color: $color-alt1 !important;
+}
+
+.bg-alt2 {
+	background-color: $color-alt2  !important;
+}

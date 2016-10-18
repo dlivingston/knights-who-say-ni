@@ -1,0 +1,55 @@
+// VARIABLES
+
+// Colors
+$color-primary: #6C9B34;	// Main Primary color */
+$color-primary-darker: #223E00;
+$color-primary-darkest: #3A6900;
+$color-primary-lighter: #B3CC94;
+$color-primary-lightest: #D6EDBA;
+
+$color-alt1: #29516D;	// Main Secondary color (1) */
+$color-alt1-darker: #021A2C;
+$color-alt1-darkest: #042D4A;
+$color-alt1-lighter: #6B8190;
+$color-alt1-lightest: #91A7B6;
+
+$color-alt2: #AA9939;	// Main Secondary color (2) */
+$color-alt2-darker: #443A00;
+$color-alt2-darkest: #746200;
+$color-alt2-lighter: #E1D7A3;
+$color-alt2-lightest: #FFF7C9;
+
+
+// Fonts
+$web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic" !default;
+@import url($web-font-path);
+
+$brand-primary: $color-primary !default;
+$brand-secondary: $color-alt1 !default;
+
+
+$btn-font-weight:                normal !default;
+
+$btn-default-color:              #fff !default;
+$btn-default-bg:                 $brand-secondary !default;
+$btn-default-border:             $btn-default-bg !default;
+
+$btn-primary-color:             #fff !default;
+$btn-primary-bg:                 $brand-primary !default;
+$btn-primary-border:             $btn-primary-bg !default;
+
+// $btn-success-color:              $btn-default-color !default;
+// $btn-success-bg:                 $brand-success !default;
+// $btn-success-border:             $btn-success-bg !default;
+
+// $btn-info-color:                 $btn-default-color !default;
+// $btn-info-bg:                    $brand-info !default;
+// $btn-info-border:                $btn-info-bg !default;
+
+// $btn-warning-color:              $btn-default-color !default;
+// $btn-warning-bg:                 $brand-warning !default;
+// $btn-warning-border:             $btn-warning-bg !default;
+
+// $btn-danger-color:               $btn-default-color !default;
+// $btn-danger-bg:                  $brand-danger !default;
+// $btn-danger-border:              $btn-danger-bg !default;

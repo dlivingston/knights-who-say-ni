@@ -15,6 +15,7 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
+        "index.scss",
         "styles.css"
       ],
       "scripts": [],
@@ -38,7 +39,7 @@
     }
   },
   "defaults": {
-    "styleExt": "css",
+    "styleExt": "scss",
     "prefixInterfaces": false
   }
 }
