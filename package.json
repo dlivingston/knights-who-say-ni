@@ -1,0 +1,19 @@
+{
+  "name": "knights-who-say-ni",
+  "version": "1.0.0",
+  "description": "The quest for a shrubbery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dlivingston/knights-who-say-ni.git"
+  },
+  "author": "Don Livingston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlivingston/knights-who-say-ni/issues"
+  },
+  "homepage": "https://github.com/dlivingston/knights-who-say-ni#readme"
+}
